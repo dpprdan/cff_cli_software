@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: 'To cite package "cli" in publications use:'
+type: software
+license: MIT
+title: 'cli: Helpers for Developing Command Line Interfaces'
+version: 3.3.0
+abstract: 'A suite of tools to build attractive command line interfaces (''CLIs''),
+  from semantic elements: headings, lists, alerts, paragraphs, etc. Supports custom
+  themes via a ''CSS''-like language. It also contains a number of lower level ''CLI''
+  elements: rules, boxes, trees, and ''Unicode'' symbols with ''ASCII'' alternatives.
+  It support ANSI colors and text styles as well.'
+authors:
+- family-names: Csárdi
+  given-names: Gábor
+  email: csardi.gabor@gmail.com
+repository: https://CRAN.R-project.org/package=cli
+repository-code: https://github.com/r-lib/cli
+url: https://cli.r-lib.org
+date-released: '2022-04-25'
+contact:
+- family-names: Csárdi
+  given-names: Gábor
+  email: csardi.gabor@gmail.com
+identifiers:
+- type: url
+  value: https://github.com/r-lib/cli#readme
